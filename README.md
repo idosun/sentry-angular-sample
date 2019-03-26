@@ -12,7 +12,7 @@ Sample Angular application integrating Sentry to report uncaught exceptions.
 
     ```
     Sentry.init({
-        dsn: "<YOUR DSN>"
+        dsn: "<YOUR DSN GOES HERE>"
     });
     ```
 
