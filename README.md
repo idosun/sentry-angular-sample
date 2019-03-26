@@ -13,7 +13,7 @@ Sample Angular application integrating Sentry to report uncaught exceptions.
     ```
     Sentry.init({
         dsn: "<YOUR DSN>"
-        });
+    });
     ```
 
 4. To start the dev server run 
